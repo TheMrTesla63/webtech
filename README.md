@@ -5,7 +5,8 @@ The repository for the FilmFan project.
 To run the project use the following command:
 
 ```bash
-python __init__.py
+.\webtech\Scripts\activate
+python run app.py
 ```
 
 To install the packages needed to run this program run the following command:
